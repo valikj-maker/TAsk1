@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\bin\Debug\net8.0\ConsoleApptask.exe
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\bin\Debug\net8.0\ConsoleApptask.deps.json
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\bin\Debug\net8.0\ConsoleApptask.runtimeconfig.json
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\bin\Debug\net8.0\ConsoleApptask.dll
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\bin\Debug\net8.0\ConsoleApptask.pdb
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.dll
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\refint\ConsoleApptask.dll
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.pdb
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ConsoleApptask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\task\ConsoleApptask\ConsoleApptask\obj\Debug\net8.0\ref\ConsoleApptask.dll
